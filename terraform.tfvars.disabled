@@ -1,0 +1,4 @@
+resource_group_name     = "<YOUR_RESOURCE_GROUP_NAME>"
+resource_group_location = "<YOUR_RESOURCE_GROUP_LOCATION>"
+subscription_id         = "<YOUR_AZURE_SUBSCRIPTION_ID>"
+tenant_id               = "<YOUR_AZURE_TENANT_ID>"
