@@ -1,4 +1,6 @@
-resource_group_name     = "<YOUR_RESOURCE_GROUP_NAME>"
-resource_group_location = "<YOUR_RESOURCE_GROUP_LOCATION>"
-subscription_id         = "<YOUR_AZURE_SUBSCRIPTION_ID>"
-tenant_id               = "<YOUR_AZURE_TENANT_ID>"
+app_service_plan_os     = "" // Windows or Linux
+app_service_plan_sku    = "" // For example "P0v3" or "P1v2"
+resource_group_name     = ""
+resource_group_location = "" // For example "Malaysia West" or "West Europe"
+subscription_id         = ""
+tenant_id               = ""
